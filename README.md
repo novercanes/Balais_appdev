@@ -6,3 +6,16 @@ Laboratory Discussion: Discuss the primary challenges you encountered while sett
 
 
 Explain the troubleshooting steps, Gradle build logs, and documentation resources you utilized to diagnose and overcome these roadblocks. Detail how resolving these issues improved your understanding of the native Android build system, the Gradle lifecycle, dependency management, and Android SDK architecture.
+
+
+ LAB ACT 1
+
+ Enhancement Instructions:
+
+
+Enhancement 1: Display the current applicationId and active lab room label (CompLab 1) in the header banner.
+
+Enhancement 2: Add a Clear Log button that resets the on-screen trace without crashing on screen rotation.
+
+
+Laboratory Discussion: Discuss what happens to Activity lifecycle states during screen rotation versus pressing the Home button, how Logcat helped verify state order, and what setup or Gradle sync issues you encountered.
